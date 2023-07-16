@@ -1,11 +1,11 @@
-## calculator
+# CALCULATOR
 __________________________
-#TABLE OF CONTENTS
+## TABLE OF CONTENTS
 I. MIT License
 II. Installing the package
 III. Module usage
 __________________________
-#I. MIT License
+## I. MIT License
 
 Copyright (c) [2023] [Ainis Margalikas]
 
@@ -27,9 +27,9 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-#II. Installing the module
+## II. Installing the module
 
-#III. Module usage
+## III. Module usage
 
 Explanations of calculator module functions are placed under calculator class definitions in main/__init__.py
 
